@@ -1,0 +1,9 @@
+#cadenas que acaban por a
+0 1;
+a b;
+0;
+1;
+0 0 b;
+0 1 a;
+1 1 a;
+1 0 b;

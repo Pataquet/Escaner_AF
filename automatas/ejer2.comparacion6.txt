@@ -1,0 +1,11 @@
+#variante acepta cadenas que acaban por a
+0 1 2;
+a b;
+0;
+1;
+0 1 a;
+0 2 b;
+1 1 a;
+1 2 b;
+2 2 b;
+2 1 a;
